@@ -1,11 +1,10 @@
 Project Title: FinTrack: Personal Expense Management System
 
 Team Members:
-
-H. Niranjan Reddy – 2420090088
 K. Sai Vignesh – 2420030007
 A. Shrawan – 2420030268
 Shaik Aman – 2420030183
+H. Niranjan Reddy – 2420090088
 
 Supervisor: G. Lavanya
 
