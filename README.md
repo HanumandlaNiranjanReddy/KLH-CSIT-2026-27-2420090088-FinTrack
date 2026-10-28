@@ -12,7 +12,7 @@ Abstract:
 FinTrack is a Personal Expense Management System designed to help users manage and monitor their personal financial transactions efficiently. The system allows users to record, update, delete, and organize their income and expense records. It uses modern web technologies such as React.js, Node.js, Express.js, MongoDB, and CSS to provide a user-friendly platform for personal financial management.
 
 React.js , Node.js , Express.js
-,GitHub,VSCode,Jira,Docker,AWS
+,GitHub,VSCode,Jira,Docker
 
 Current Phase Status:
 Phase 1 – Project Setup and Requirements Analysis
